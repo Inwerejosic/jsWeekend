@@ -1,4 +1,5 @@
 console.log('Hello Javascript!');
+window.alert("Hello my people");
 
 //Now I want to get my first DOM element
 
