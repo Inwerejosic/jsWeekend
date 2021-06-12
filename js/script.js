@@ -6,3 +6,6 @@ window.alert("Hello my people");
 // getting by id
 
 document.getElementById("demo").style.fontSize = "65px"
+document.querySelector(".btn").addEventListener('click', () => {
+    window.alert("Welcome")
+})
